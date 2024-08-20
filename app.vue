@@ -1,7 +1,5 @@
 <template>
   <div class="w-full h-screen flex justify-center items-center gap-6">
-    <div class="title">Manutsanan Uraporn</div>
-
     <!-- 1 -->
     <div
       class="grid grid-cols-1 h-[500px] w-[500px] rounded-lg border-4 border-black"
