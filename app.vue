@@ -1,6 +1,6 @@
 <template>
   <div class="w-full h-screen flex justify-center items-center gap-6">
-    Manutsanan
+    <div class="title">Manutsanan Uraporn</div>
 
     <!-- 1 -->
     <div
